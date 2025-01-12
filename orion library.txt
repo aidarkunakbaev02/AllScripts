@@ -1,3 +1,6 @@
+--[//Modifed By Aidar\\]--
+
+
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
@@ -13,7 +16,7 @@ local OrionLib = {
 	Themes = {
 		Default = {
 			Main = Color3.fromRGB(114, 82, 92),
-			Second = Color3.fromRGB(110, 89, 88),
+			Second = Color3.fromRGB(114, 82, 92),
 			Stroke = Color3.fromRGB(60, 60, 60),
 			Divider = Color3.fromRGB(60, 60, 60),
 			Text = Color3.fromRGB(240, 240, 240),
